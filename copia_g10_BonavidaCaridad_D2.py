@@ -2,7 +2,7 @@ agenda = []
 
 print("Agenda")
 print("Opciones")
-print("1- Agregar contacto (deberá agregar 5 contactos como mínimo)")
+print("1- Agregar contacto (5 como mínimo)")
 print("2- Buscar número")
 print("0- Salir")
 
